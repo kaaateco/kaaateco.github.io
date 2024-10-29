@@ -1,11 +1,29 @@
 ---
-title: "My awesome website"
+title: ""
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# Information about this website
+A pdf copy of my resume is available [here](). 
 
-This website was made as an example in [p8105](https://p8105.com/) for "Making Websites". I'm making in RMD and will use GitHub for hosting. 
+# Research Experience 
+
+Research Fellow, Biostatistics | Memorial Sloan Kettering Cancer Ctr. | Dr. Lillian Boe (June 2023 – Aug. 2023)
+
+Undergraduate Researcher, Biostatistics | UC Berkeley | Prof. Justin Remais (Jan. 2022 – May 2023)
+
+Research Fellow, Biostatistics | University of Michigan | Prof. Bhramar Mukherjee (June 2022 – July 2022)
+
+Research Assistant, Public Health | UC Merced | Prof. Paul Brown (June 2021 – Aug. 2021)
+
+
+# Publications 
+
+M. Kim, B. Ali, F.D. Graziano, **K.A. Colvin**, L.A. Boe, J.A. Nelson, J. Disa. “Ideal Mastectomy to Free Flap Weight Ratio for Immediate Autologous Breast Reconstruction.” Journal of Surgical Oncology. 2024 Apr 18. [doi.org/10.1002/jso.27647](https://onlinelibrary.wiley.com/doi/10.1002/jso.27647)
+
+S.K. Camponuri, J.R. Head, P.A. Collender, A.K. Weaver, A.K. Heaney, **K.A. Colvin**, G. Sondermeyer-Cooksey, A. Yu, S. Jain, D. Vugia, J.V. Remais. “Timing of coccidioidomycosis risk is associated with regional climate in California.” [Manuscript submitted]
+
+J.R. Head, S.K. Camponuri, A.K. Weaver, L. Montoya, E. Lee, M. Radosevich, I. Jones, R. Wagner, A. Bhattachan, G.
+Campbell, N. Keeney, P.A. Collender, A.K. Heaney, **K.A. Colvin**, W.T. Bean, J. Taylor, and J.V. Remais. “Small mammals and their burrows shape the distribution of Coccidioides in soils: evidence from a long-term ecological experiment in the Carrizo Plain National Monument, California, USA.” [Manuscript submitted]

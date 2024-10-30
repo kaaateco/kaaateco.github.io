@@ -6,24 +6,39 @@ output:
     toc_float: true
 ---
 
-A pdf copy of my resume is available [here](). 
-
 # Research Experience 
 
-Research Fellow, Biostatistics | Memorial Sloan Kettering Cancer Ctr. | Dr. Lillian Boe (June 2023 – Aug. 2023)
+Research Fellow, Biostatistics <br>
+Memorial Sloan Kettering Cancer Center QSURE Program <br>
+Dr. Lillian Boe <br>
+June 2023 – August 2023 <br>
 
-Undergraduate Researcher, Biostatistics | UC Berkeley | Prof. Justin Remais (Jan. 2022 – May 2023)
+Undergraduate Researcher, Biostatistics <br>
+University of California, Berkeley <br>
+Professor Justin Remais <br>
+January 2022 – May 2023 <br>
 
-Research Fellow, Biostatistics | University of Michigan | Prof. Bhramar Mukherjee (June 2022 – July 2022)
+Research Fellow, Biostatistics <br>
+University of Michigan, Big Data Summer Institute <br>
+Professor Bhramar Mukherjee <br>
+June 2022 – July 2022 <br>
 
-Research Assistant, Public Health | UC Merced | Prof. Paul Brown (June 2021 – Aug. 2021)
+Research Assistant, Public Health <br>
+University of California, Merced <br>
+Professor Paul Brown <br>
+June 2021 – August 2021 <br>
 
+<br>
 
 # Publications 
 
 M. Kim, B. Ali, F.D. Graziano, **K.A. Colvin**, L.A. Boe, J.A. Nelson, J. Disa. “Ideal Mastectomy to Free Flap Weight Ratio for Immediate Autologous Breast Reconstruction.” Journal of Surgical Oncology. 2024 Apr 18. [doi.org/10.1002/jso.27647](https://onlinelibrary.wiley.com/doi/10.1002/jso.27647)
 
-S.K. Camponuri, J.R. Head, P.A. Collender, A.K. Weaver, A.K. Heaney, **K.A. Colvin**, G. Sondermeyer-Cooksey, A. Yu, S. Jain, D. Vugia, J.V. Remais. “Timing of coccidioidomycosis risk is associated with regional climate in California.” [Manuscript submitted]
+S.K. Camponuri, J.R. Head, P.A. Collender, A.K. Weaver, A.K. Heaney, **K.A. Colvin**, G. Sondermeyer-Cooksey, A. Yu, S. Jain, D. Vugia, J.V. Remais. “Timing of coccidioidomycosis risk is associated with regional climate in California.” [Manuscript submitted, preprint available at [medRxiv](https://www.medrxiv.org/content/10.1101/2024.10.22.24315941v1)]
 
 J.R. Head, S.K. Camponuri, A.K. Weaver, L. Montoya, E. Lee, M. Radosevich, I. Jones, R. Wagner, A. Bhattachan, G.
-Campbell, N. Keeney, P.A. Collender, A.K. Heaney, **K.A. Colvin**, W.T. Bean, J. Taylor, and J.V. Remais. “Small mammals and their burrows shape the distribution of Coccidioides in soils: evidence from a long-term ecological experiment in the Carrizo Plain National Monument, California, USA.” [Manuscript submitted]
+Campbell, N. Keeney, P.A. Collender, A.K. Heaney, **K.A. Colvin**, W.T. Bean, J. Taylor, and J.V. Remais. “Small mammals and their burrows shape the distribution of Coccidioides in soils: evidence from a long-term ecological experiment in the Carrizo Plain National Monument, California, USA.” [Manuscript submitted, preprint available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.09.21.613892v1)]
+
+---
+
+A pdf copy of my resume is available [here](KColvin_Resume2024_copy.pdf) 

@@ -1,9 +1,10 @@
 ---
-title: "Dashboard!!"
+title: "Instacart Plot Dashboard"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
     vertical_layout: fill
+    theme: paper
 ---
 
 ```{r setup, include=FALSE}
@@ -16,43 +17,44 @@ library(tidyverse)
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A
+### Number of Repeat Orders by Department
 
 ```{r}
 
-nyc_airbnb %>% 
-  mutate(neighbourhood = fct_reorder(neighbourhood, price)) %>% 
-  plot_ly(
-    x = ~neighbourhood, y = ~price, color = ~neighbourhood, type = "box", colors = "viridis"
-  )
+instacart %>% 
+  filter(reordered == 1) %>% 
+  count(department) %>% 
+  mutate(department = fct_reorder(department, n)) %>% 
+  plot_ly(x = ~department, y = ~n, color = ~department, type = "bar")
 
 ```
 
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### Distributions of Order Times of Selected Departments
 
 ```{r}
 
-nyc_airbnb %>% 
-  mutate(text_label = str_c("Price: ", price, "\nNeighborhood: ", neighbourhood)) %>% 
-  plot_ly(
-    x = ~lat, y = ~long, color = ~price, text = ~text_label, 
-    type = "scatter", mode = "markers", alpha = 0.5
-  )
+instacart %>% 
+  filter(department == c("produce", "snacks", "beverages", 
+                         "frozen", "dairy eggs", "meat seafood", 
+                         "deli", "pantry", "alcohol")) %>% 
+  plot_ly(x = ~department, y = ~order_hour_of_day, color = ~department, type = "box")
 
 ```
 
-### Chart C
+### Distribution of Number of Products Ordered per Customer 
 
 ```{r}
 
-nyc_airbnb %>% 
-  count(neighbourhood) %>% 
-  mutate(neighbourhood = fct_reorder(neighbourhood, n)) %>% 
-  plot_ly(x = ~neighbourhood, y = ~n, 
-          type = "bar")
+instacart %>% 
+  group_by(user_id) %>% 
+  summarize(product_count = n()) %>% 
+  arrange(-product_count) %>% 
+  plot_ly(
+    x = ~product_count, type = "histogram", marker = list(line = list(color = 'white', width = 1))) %>% 
+  layout(yaxis = list(title = list(text = 'customer_count')))
 
 # Cannot knit: rmarkdown::render("dashboard.Rmd", output_format = "flexdashboard::flex_dashboard")
 

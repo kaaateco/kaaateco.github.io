@@ -7,10 +7,10 @@ output:
 ---
 
 <div style="text-align: center;">
-<img width="450" src="images/kate_headshot_long.jpg">
+<img width="450" src="images/kate_headshot_longer.jpg">
 </div>
 
-My name is Kate and I'm a first-year PhD student in Biostatistics at the Columbia Mailman School of Public Health. I just graduated from UC Berkeley in Spring 2024 with bachelor's degrees in Statistics and Public Health. If you want to learn more about my professional and research experience, you can read more about me on my [About page](about.html). Please feel free to reach out to me via email or LinkedIn, or check out my Github!
+My name is Kate and I'm a first-year PhD student in Biostatistics at the Columbia Mailman School of Public Health. I just graduated from UC Berkeley in Spring 2024 with bachelor's degrees in Statistics and Public Health. If you want to learn more about my professional and research experience, you can read more about me on my [about page](about.html). Please feel free to reach out to me via email or LinkedIn, or check out my Github!
 
 If you want to see some cool plots of Instacart shopping data, checkout the dashboard! 
 

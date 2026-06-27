@@ -61,12 +61,12 @@ PhD Student, Biostatistics <br>
 <h1>About Me</h1>
 
 <p>
-I am a third-year PhD student in Biostatistics at the Columbia University Mailman School of Public Health.
+I am a third-year PhD student in biostatistics at the Columbia University Mailman School of Public Health.
 My current research interests are in clinical trial methodology, causal inference methods, mental health, and cancer.
 </p>
 
 <p>
-Before beginning my PhD, I earned bachelor's degrees in Statistics and Public Health from UC Berkeley, where I also led the undergraduate Student Association for Applied Statistics (SAAS). 
+Before beginning my PhD, I earned bachelor's degrees in statistics and public health from UC Berkeley, where I also led the undergraduate Student Association for Applied Statistics (SAAS). 
 
 
 I have previously been part of research at the Environmental Health Sciences Division at UC Berkeley, the Plastic and Reconstructive Surgery Service at Memorial Sloan Kettering Cancer Center, and the Department of Biostatistics at University of Michigan. 

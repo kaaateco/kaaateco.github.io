@@ -26,8 +26,7 @@ output:
 <h2>Kate Colvin</h2>
 
 <p class="subtitle">
-PhD Student<br>
-Biostatistics
+PhD Student, Biostatistics
 </p>
 
 <p class="institution">
@@ -48,20 +47,14 @@ Columbia University
 
 <p>
 I am a third-year PhD student in Biostatistics at the Columbia University Mailman School of Public Health.
-My research focuses on clinical trial methodology, causal inference,
-mental health, and cancer.
+My current research interests are in clinical trial methodology, causal inference methods, mental health, and cancer.
 </p>
 
 <p>
-Before beginning my PhD, I earned bachelor's degrees in Statistics and
-Public Health from UC Berkeley. I have conducted research at UC Berkeley,
-the University of Michigan, and Memorial Sloan Kettering Cancer Center.
-</p>
+Before beginning my PhD, I earned bachelor's degrees in Statistics and Public Health from UC Berkeley, where I also led the undergraduate Student Association for Applied Statistics (SAAS). 
 
-<p>
-My current interests include improving clinical trial methodology,
-causal inference methods, and statistical approaches for mental health
-research.
+
+I have previously been part of research at the Environmental Health Sciences Division at UC Berkeley, the Plastic and Reconstructive Surgery Service at Memorial Sloan Kettering Cancer Center, and the Department of Biostatistics at University of Michigan. 
 </p>
 
 </div>

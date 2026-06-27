@@ -28,7 +28,7 @@ output:
 
 <p class="subtitle">
 Biostatistics PhD Student <br>
-Columbia University
+[Columbia University](https://www.columbia.edu/)
 </p>
 
 <div class="buttons">

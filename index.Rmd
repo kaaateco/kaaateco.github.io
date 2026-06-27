@@ -1,124 +1,161 @@
 ---
 title: "Kate Colvin"
-
 output:
   html_document:
     css: style.css
     toc: false
 ---
 
-<!-- NAVIGATION -->
-<div class="navbar">
-  <a href="#home">Home</a>
-  <a href="#research">Research</a>
-  <a href="#projects">Projects</a>
-  <a href="#contact">Contact</a>
+<div class="container">
+
+<nav>
+<a href="#about">About</a>
+<a href="#research">Research</a>
+<a href="#projects">Projects</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<div class="divider"></div>
+
+<section id="about" class="hero">
+
+<div class="left-column">
+
+<img src="images/kate_crop.jpeg" class="profile-photo">
+
+<h2>Kate Colvin</h2>
+
+<p class="subtitle">
+PhD Student<br>
+Biostatistics
+</p>
+
+<p class="institution">
+Columbia University
+</p>
+
+<div class="buttons">
+<a href="cv.pdf" class="button">CV</a>
+<a href="https://github.com/kaaateco" class="button">GitHub</a>
+<a href="mailto:kac2301@cumc.columbia.edu" class="button">Email</a>
 </div>
-
-<div id="home"></div>
-
-<!-- HERO -->
-<div class="row" style="margin-top:40px; margin-bottom:50px;">
-
-  <div class="col-md-4">
-    <img src="images/kate_newer_square.jpg" style="width:100%; border-radius:6px;">
-  </div>
-
-  <div class="col-md-8">
-
-    # Kate Colvin
-
-    **PhD Student in Biostatistics**  
-    Columbia University Mailman School of Public Health
-
-    I am a third-year PhD student in Biostatistics at Columbia University. My research interests include clinical trial methodology, causal inference, mental health, and cancer. 
-    
-    Before beginning my PhD, I earned bachelor's degrees in Statistics and Public Health from UC Berkeley. I've done research at the Environmental Health Sciences Division at the UC Berkeley School of Public Health, the Biostatistics Department at University of Michican, and the Department of Epidemiology and Biostatistics at Memorial Sloan Kettering Cancer Center. 
-
-    <br>
-
-    <a class="button" href="cv.pdf">CV</a>
-    <a class="button" href="https://github.com/kaaateco">GitHub</a>
-    <a class="button" href="mailto:kac2301@cumc.columbia.edu">Email</a>
-
-  </div>
-</div>
-
----
-
-<div id="research"></div>
-
-## Research Interests & Education
-
-<div class="row">
-
-<div class="col-md-6">
-
-### Research Interests
-
-- Test
 
 </div>
 
-<div class="col-md-6">
+<div class="right-column">
 
-### Education
+<h1>About Me</h1>
 
-**Columbia University**  
-PhD in Biostatistics (2024–Present)
+<p>
+I am a third-year PhD student in Biostatistics at the Columbia University Mailman School of Public Health.
+My research focuses on clinical trial methodology, causal inference,
+mental health, and cancer.
+</p>
 
-**University of California, Berkeley**  
-BA Statistics & Public Health (2020–2024)
+<p>
+Before beginning my PhD, I earned bachelor's degrees in Statistics and
+Public Health from UC Berkeley. I have conducted research at UC Berkeley,
+the University of Michigan, and Memorial Sloan Kettering Cancer Center.
+</p>
 
-</div>
-</div>
-
----
-
-## Skills & Experience
-
-<div class="row">
-
-<div class="col-md-6">
-
-### Skills
-
-- R / RStudio  
-- Python  
+<p>
+My current interests include improving clinical trial methodology,
+causal inference methods, and statistical approaches for mental health
+research.
+</p>
 
 </div>
 
-<div class="col-md-6">
+</section>
 
-### Experience
+<div class="divider"></div>
 
-Research Assistant  
-Teaching Assistant  
-Internships / Projects  
+<section id="research">
+
+<div class="two-column">
+
+<div>
+
+<h2>Research Interests</h2>
+
+<ul>
+<li>Clinical Trial Methodology</li>
+<li>Causal Inference</li>
+<li>Mental Health</li>
+<li>Cancer Research</li>
+<li>Statistical Computing</li>
+</ul>
 
 </div>
+
+<div>
+
+<h2>Education</h2>
+
+<h3>Columbia University</h3>
+
+<p>
+PhD in Biostatistics<br>
+2024–Present
+</p>
+
+<h3>University of California, Berkeley</h3>
+
+<p>
+BA Statistics<br>
+BA Public Health<br>
+2020–2024
+</p>
+
 </div>
 
----
+</div>
 
-<div id="projects"></div>
+</section>
 
-## Projects
+<div class="divider"></div>
 
-### Interactive Dashboard
-Short description...
+<section id="projects">
 
-### Data Visualization Work
-Short description...
+<h2>Projects</h2>
 
----
+<h3>Clinical Trial Dashboard</h3>
 
-<div id="contact"></div>
+<p>
+Interactive visualization of adaptive clinical trials using R Shiny.
+</p>
 
-## Contact
+<h3>Data Visualization</h3>
 
-Kate Colvin <br>
-[Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) <br>
-[Columbia Mailman School of Public Health](https://www.publichealth.columbia.edu/) <br>
+<p>
+A collection of statistical graphics and reproducible analyses.
+</p>
 
-Email: [kac2301@cumc.columbia.edu](mailto:<kac2301@cumc.columbia.edu>)
+</section>
+
+<div class="divider"></div>
+
+<section id="contact">
+
+<h2>Contact</h2>
+
+<p>
+
+Department of Biostatistics<br>
+
+Columbia University Mailman School of Public Health
+
+</p>
+
+<p>
+
+Email:
+<a href="mailto:kac2301@cumc.columbia.edu">
+kac2301@cumc.columbia.edu
+</a>
+
+</p>
+
+</section>
+
+</div>

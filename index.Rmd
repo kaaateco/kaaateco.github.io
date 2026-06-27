@@ -28,7 +28,7 @@
 
 
 ---
-name: "Kate Colvin"
+title: "Kate Colvin"
 
 output:
   html_document:

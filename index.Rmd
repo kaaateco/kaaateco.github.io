@@ -1,5 +1,5 @@
 ---
-# title: "Kate Colvin"
+title: "Kate Colvin"
 output:
   html_document:
     css: style.css
@@ -13,7 +13,7 @@ output:
 <div class="container">
 
 <nav>
-<a href="#about">**Kate Colvin**</a>
+<p>**Kate Colvin**</p>
 <a href="#about">About</a>
 <a href="#publications">Publications</a>
 <a href="#contact">Contact</a>

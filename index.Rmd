@@ -1,5 +1,5 @@
 ---
-title: "Kate Colvin"
+# title: "Kate Colvin"
 output:
   html_document:
     css: style.css
@@ -8,9 +8,12 @@ output:
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+
 <div class="container">
 
 <nav>
+<a href="#about">**Kate Colvin**</a>
 <a href="#about">About</a>
 <a href="#publications">Publications</a>
 <a href="#contact">Contact</a>
@@ -24,10 +27,10 @@ output:
 
 <img src="images/kate_crop.jpeg" class="profile-photo">
 
-<h2>Kate Colvin</h2>
+<h2>**Kate Colvin**</h2>
 
 <p class="subtitle">
-Biostatistics PhD Student <br>
+PhD Student, Biostatistics <br>
 [Columbia University](https://www.columbia.edu/)
 </p>
 

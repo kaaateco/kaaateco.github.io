@@ -6,12 +6,13 @@ output:
     toc: false
 ---
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
 <div class="container">
 
 <nav>
 <a href="#about">About</a>
-<a href="#research">Research</a>
-<a href="#projects">Projects</a>
+<a href="#publications">Publications</a>
 <a href="#contact">Contact</a>
 </nav>
 
@@ -26,7 +27,7 @@ output:
 <h2>Kate Colvin</h2>
 
 <p class="subtitle">
-PhD Student, Biostatistics
+Biostatistics PhD Student
 </p>
 
 <p class="institution">
@@ -34,9 +35,19 @@ Columbia University
 </p>
 
 <div class="buttons">
-<a href="cv.pdf" class="button">CV</a>
-<a href="https://github.com/kaaateco" class="button">GitHub</a>
-<a href="mailto:kac2301@cumc.columbia.edu" class="button">Email</a>
+
+<a href="https://scholar.google.com/citations?user=7tNw73oAAAAJ&hl=en" class="icon-button" target="_blank" title="Google Scholar">
+<i class="fa-solid fa-graduation-cap"></i>
+</a>
+
+<a href="https://github.com/kaaateco" class="icon-button" target="_blank" title="GitHub">
+<i class="fa-brands fa-github"></i>
+</a>
+
+<a href="https://www.linkedin.com/in/kacolvin/" class="icon-button" target="_blank" title="LinkedIn">
+<i class="fa-brands fa-linkedin"></i>
+</a>
+
 </div>
 
 </div>
@@ -73,10 +84,9 @@ I have previously been part of research at the Environmental Health Sciences Div
 
 <ul>
 <li>Clinical Trial Methodology</li>
-<li>Causal Inference</li>
+<li>Causal Inference Methods</li>
 <li>Mental Health</li>
-<li>Cancer Research</li>
-<li>Statistical Computing</li>
+<li>Cancer</li>
 </ul>
 
 </div>
@@ -95,8 +105,7 @@ PhD in Biostatistics<br>
 <h3>University of California, Berkeley</h3>
 
 <p>
-BA Statistics<br>
-BA Public Health<br>
+BA Statistics, BA Public Health<br>
 2020–2024
 </p>
 
@@ -108,20 +117,28 @@ BA Public Health<br>
 
 <div class="divider"></div>
 
-<section id="projects">
+<section id="publications">
 
-<h2>Projects</h2>
+<h2>Publications</h2>
 
-<h3>Clinical Trial Dashboard</h3>
 
 <p>
-Interactive visualization of adaptive clinical trials using R Shiny.
+S.K. Camponuri, J.R. Head, P.A. Collender, A.K. Weaver, A.K. Heaney, **K.A. Colvin**, A. Bhattachan, G. Sondermeyer-
+Cooksey, D. Vugia, S. Jain, J.V. Remais. “Prolonged coccidioidomycosis transmission seasons in a warming California: a
+Markov state transition model of shifting disease dynamics.” *Journal of the Royal Society Interface*. 2025 Feb 26.
+doi.org/10.1098/rsif.2024.0821
 </p>
 
-<h3>Data Visualization</h3>
+<p>
+M. Kim, B. Ali, F.D. Graziano, **K.A. Colvin**, L.A. Boe, J.A. Nelson, J. Disa. “Ideal Mastectomy to Free Flap Weight Ratio for
+Immediate Autologous Breast Reconstruction.” *Journal of Surgical Oncology.* 2024 Apr 18. doi.org/10.1002/jso.27647
+<p>
 
 <p>
-A collection of statistical graphics and reproducible analyses.
+J.R. Head, S.K. Camponuri, A.K. Weaver, L. Montoya, E. Lee, M. Radosevich, I. Jones, R. Wagner, A. Bhattachan, G.
+Campbell, N. Keeney, P.A. Collender, A.K. Heaney, **K.A. Colvin**, W.T. Bean, J. Taylor, and J.V. Remais. “Small mammals
+and their burrows shape the distribution of Coccidioides in soils: evidence from a long-term ecological experiment in
+the Carrizo Plain National Monument, California, USA.” *[submitted]*
 </p>
 
 </section>

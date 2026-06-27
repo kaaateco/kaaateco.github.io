@@ -1,10 +1,17 @@
 /* ---------- GENERAL ---------- */
 
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
 h1.title {
     display: none;
 }
 
 body {
+    margin: 0;
     font-family: "Inter", sans-serif;
     color: #222;
     background: white;
@@ -18,10 +25,10 @@ h1, h2, h3 {
 }
 
 
-.container{
-    max-width:1200px;
-    margin:auto;
-    padding:40px;
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 40px;
 }
 
 /* ---------- NAVIGATION ---------- */

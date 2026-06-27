@@ -162,12 +162,8 @@ New York, New York 10032<br>
 </p>
 
 <p>
-
 Email:
-<a href="mailto:kac2301@cumc.columbia.edu">
-kac2301@cumc.columbia.edu
-</a>
-
+kac2301[@]cumc.columbia.edu
 </p>
 
 </section>

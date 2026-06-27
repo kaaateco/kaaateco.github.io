@@ -1,236 +1,142 @@
 /* ---------- GENERAL ---------- */
 
 body {
-
     font-family: -apple-system, BlinkMacSystemFont,
                  "Segoe UI", Helvetica, Arial, sans-serif;
-
     color: #222;
-
     background: white;
-
     line-height: 1.75;
-
     font-size: 18px;
-
 }
 
 .container{
-
     max-width:1100px;
-
     margin:auto;
-
     padding:40px;
-
 }
 
 /* ---------- NAVIGATION ---------- */
 
 nav{
-
     display:flex;
-
     gap:40px;
-
     margin-bottom:30px;
-
 }
 
 nav a{
-
     text-decoration:none;
-
     color:#333;
-
     font-size:18px;
-
 }
 
 nav a:hover{
-
     color:#2b6cb0;
-
 }
 
 /* ---------- DIVIDER ---------- */
 
 .divider{
-
     border-top:1px solid #e5e5e5;
-
     margin:40px 0;
-
 }
 
 /* ---------- HERO ---------- */
 
 .hero{
-
     display:grid;
-
     grid-template-columns:320px 1fr;
-
     gap:70px;
-
     align-items:start;
-
 }
 
 .profile-photo{
-
     width:240px;
-
     height:240px;
-
     object-fit:cover;
-
     border-radius:50%;
-
     display:block;
-
     margin:auto;
-
 }
 
 .left-column{
-
     text-align:center;
-
 }
 
 .left-column h2{
-
     margin-top:25px;
-
     margin-bottom:5px;
-
     font-size:40px;
-
 }
 
 .subtitle{
-
-    font-size:24px;
-
+    font-size:20px;
     color:#555;
-
-    margin-bottom:10px;
-
+    margin-bottom:2px;
 }
 
-.institution{
-
-    color:#2b6cb0;
-
-    font-size:22px;
-
-}
 
 /* ---------- ABOUT ---------- */
 
 .right-column h1{
-
-    font-size:64px;
-
+    font-size:58px;
     margin-top:0;
-
     margin-bottom:30px;
-
 }
 
 .right-column p{
-
     margin-bottom:24px;
-
 }
 
 /* ---------- BUTTONS ---------- */
 
-.buttons{
+.icon-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
 
-    margin-top:30px;
+    color: #2b6cb0;
+    text-decoration: none;
 
-    display:flex;
-
-    justify-content:center;
-
-    gap:12px;
-
-    flex-wrap:wrap;
-
+    font-size: 28px;
 }
 
-.button{
-
-    border:2px solid #2b6cb0;
-
-    color:#2b6cb0;
-
-    padding:10px 22px;
-
-    border-radius:6px;
-
-    text-decoration:none;
-
-    transition:.2s;
-
+.icon-button:hover {
+    text-decoration: underline;
 }
 
-.button:hover{
-
-    background:#2b6cb0;
-
-    color:white;
-
+.buttons {
+    margin-top: 18px;
+    display: flex;
+    justify-content: center;
+    gap: 18px;
 }
 
 /* ---------- TWO COLUMN ---------- */
 
 .two-column{
-
     display:grid;
-
     grid-template-columns:1fr 1fr;
-
     gap:80px;
-
 }
 
 .two-column h2{
-
     margin-bottom:20px;
-
 }
 
 .two-column h3{
-
     margin-top:25px;
-
     margin-bottom:5px;
-
 }
 
-/* ---------- PROJECTS ---------- */
-
-#projects h3{
-
-    margin-bottom:8px;
-
-}
 
 /* ---------- LINKS ---------- */
 
 a{
-
     color:#2b6cb0;
-
 }
 
 a:hover{
-
     text-decoration:underline;
-
 }
 
 /* ---------- MOBILE ---------- */
@@ -238,31 +144,21 @@ a:hover{
 @media (max-width:900px){
 
 .hero{
-
 grid-template-columns:1fr;
-
 text-align:center;
-
 }
 
 .right-column h1{
-
 font-size:48px;
-
 }
 
 .two-column{
-
 grid-template-columns:1fr;
-
 }
 
 nav{
-
 justify-content:center;
-
 flex-wrap:wrap;
-
 }
 
 }

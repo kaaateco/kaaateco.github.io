@@ -27,14 +27,15 @@ output:
 <h2>Kate Colvin</h2>
 
 <p class="subtitle">
-Biostatistics PhD Student
-</p>
-
-<p class="institution">
+Biostatistics PhD Student <br>
 Columbia University
 </p>
 
 <div class="buttons">
+
+<a href="KColvin_Resume2026.pdf" class="icon-button" target="_blank">
+<i class="fa-solid fa-file-lines"></i>
+</a>
 
 <a href="https://scholar.google.com/citations?user=7tNw73oAAAAJ&hl=en" class="icon-button" target="_blank" title="Google Scholar">
 <i class="fa-solid fa-graduation-cap"></i>
@@ -151,10 +152,10 @@ the Carrizo Plain National Monument, California, USA.” *[submitted]*
 
 <p>
 
-Department of Biostatistics<br>
-
-Columbia University Mailman School of Public Health
-
+[Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics)<br>
+[Columbia University Mailman School of Public Health](https://www.publichealth.columbia.edu/) <br>
+722 West 168th Street<br>
+New York, New York 10032<br>
 </p>
 
 <p>

@@ -1,27 +1,153 @@
+# ---
+# title: "Kate Colvin"
+# output: 
+#   html_document:
+#     toc: false
+#     toc_float: false
+# ---
+
+# <div style="text-align: center;">
+# <img width="450" src="images/kate_headshot_longer.jpg">
+# </div>
+
+# My name is Kate and I'm a first-year PhD student in Biostatistics at the Columbia Mailman School of Public Health. I just graduated from UC Berkeley in Spring 2024 with bachelor's degrees in Statistics and Public Health. If you want to learn more about my professional and research experience, you can read more about me on my [about page](about.html). Please feel free to reach out to me via email or LinkedIn, or check out my Github!
+
+
+# -----
+
+
+# ## Contact Info
+
+# Kate Alexandra Colvin <br>
+# [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) <br>
+# [Columbia Mailman School of Public Health](https://www.publichealth.columbia.edu/) <br>
+# 722 West 168th Street <br>
+# New York, NY 10032 <br>
+
+# Email: [kac2301@cumc.columbia.edu](mailto:<kac2301@cumc.columbia.edu>)
+
+
 ---
-title: "Kate Colvin"
-output: 
+name: "Kate Colvin"
+
+output:
   html_document:
+    css: style.css
     toc: false
-    toc_float: false
 ---
 
-<div style="text-align: center;">
-<img width="450" src="images/kate_headshot_longer.jpg">
+<!-- NAVIGATION -->
+<div class="navbar">
+  <a href="#home">Home</a>
+  <a href="#research">Research</a>
+  <a href="#projects">Projects</a>
+  <a href="#contact">Contact</a>
 </div>
 
-My name is Kate and I'm a first-year PhD student in Biostatistics at the Columbia Mailman School of Public Health. I just graduated from UC Berkeley in Spring 2024 with bachelor's degrees in Statistics and Public Health. If you want to learn more about my professional and research experience, you can read more about me on my [about page](about.html). Please feel free to reach out to me via email or LinkedIn, or check out my Github!
+<div id="home"></div>
 
+<!-- HERO -->
+<div class="row" style="margin-top:40px; margin-bottom:50px;">
 
------
+  <div class="col-md-4">
+    <img src="images/kate_newer_square.jpg" style="width:100%; border-radius:6px;">
+  </div>
 
+  <div class="col-md-8">
 
-## Contact Info
+    # Kate Colvin
 
-Kate Alexandra Colvin <br>
+    **PhD Student in Biostatistics**  
+    Columbia University Mailman School of Public Health
+
+    I am a third-year PhD student in Biostatistics at Columbia University. My research interests include clinical trial methodology, causal inference, mental health, and cancer. 
+    
+    Before beginning my PhD, I earned bachelor's degrees in Statistics and Public Health from UC Berkeley. I've done research at the Environmental Health Sciences Division at the UC Berkeley School of Public Health, the Biostatistics Department at University of Michican, and the Department of Epidemiology and Biostatistics at Memorial Sloan Kettering Cancer Center. 
+
+    <br>
+
+    <a class="button" href="cv.pdf">CV</a>
+    <a class="button" href="https://github.com/kaaateco">GitHub</a>
+    <a class="button" href="mailto:kac2301@cumc.columbia.edu">Email</a>
+
+  </div>
+</div>
+
+---
+
+<div id="research"></div>
+
+## Research Interests & Education
+
+<div class="row">
+
+<div class="col-md-6">
+
+### Research Interests
+
+- Test
+
+</div>
+
+<div class="col-md-6">
+
+### Education
+
+**Columbia University**  
+PhD in Biostatistics (2024–Present)
+
+**University of California, Berkeley**  
+BA Statistics & Public Health (2020–2024)
+
+</div>
+</div>
+
+---
+
+## Skills & Experience
+
+<div class="row">
+
+<div class="col-md-6">
+
+### Skills
+
+- R / RStudio  
+- Python  
+
+</div>
+
+<div class="col-md-6">
+
+### Experience
+
+Research Assistant  
+Teaching Assistant  
+Internships / Projects  
+
+</div>
+</div>
+
+---
+
+<div id="projects"></div>
+
+## Projects
+
+### Interactive Dashboard
+Short description...
+
+### Data Visualization Work
+Short description...
+
+---
+
+<div id="contact"></div>
+
+## Contact
+
+Kate Colvin <br>
 [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) <br>
 [Columbia Mailman School of Public Health](https://www.publichealth.columbia.edu/) <br>
-722 West 168th Street <br>
-New York, NY 10032 <br>
 
 Email: [kac2301@cumc.columbia.edu](mailto:<kac2301@cumc.columbia.edu>)

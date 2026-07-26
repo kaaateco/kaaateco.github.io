@@ -36,7 +36,7 @@ PhD Student, Biostatistics <br>
 
 <div class="buttons">
 
-<a href="KColvin_Resume2026.pdf" class="icon-button" target="_blank">
+<a href="kcolvin_res2026.pdf" class="icon-button" target="_blank">
 <i class="fa-solid fa-file-lines"></i>
 </a>
 
